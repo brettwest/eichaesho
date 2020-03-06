@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eevoshukit.games-in-action.eu/sitemap.xml
